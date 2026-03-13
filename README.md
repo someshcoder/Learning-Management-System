@@ -1,6 +1,6 @@
 # Learning Management System (LMS)
 
-![LMS Screenshot](./client/public/LMS-logo.png)
+![LMS Screenshot](https://raw.githubusercontent.com/someshcoder/Learning-Management-System/main/client/public/LMS-logo.png)
 
 > A modern full-stack Learning Management System built with **React + Vite** (frontend) and **Node.js + Express + MongoDB** (backend).
 
