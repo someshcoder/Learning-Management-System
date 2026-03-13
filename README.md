@@ -4,8 +4,6 @@
   <img src="./client/public/LMS-logo.png" alt="LMS-Logo" width="200" height="200">
 </p>
 
-<div align="center">
-
 > A modern full-stack Learning Management System built with **React + Vite** (frontend) and **Node.js + Express + MongoDB** (backend).
 
 ---
